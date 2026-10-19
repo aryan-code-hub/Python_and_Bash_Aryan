@@ -1,0 +1,29 @@
+Python and Bash Assignment
+
+Student Name: Aryan
+Project Name: Python_and_Bash_Aryan
+GitHub Repository: https://github.com/aryan-code-hub/Python_and_Bash_Aryan
+
+Task 1: Grade Checker
+File: grade_checker.py
+Objective: User ke score ke according grade print karna.
+Concepts: input(), if-elif-else
+Screenshot: Availeble in My Screenshots Folder
+
+Task 2: Student Grades
+File: student_grades.py
+Objective: Student grades ko dictionary mein store, add, update aur display karna.
+Concepts: Dictionary, if-else, loops
+Screenshots: Availeble in My Screenshots Folder
+
+Task 3: Write to a File
+File: write_file.py
+Objective: Text file mein data write karna.
+Concepts: open(), write(), close()
+Screenshot: Availeble in My Screenshots Folder
+
+Task 4: Read from a File
+File: read_file.py
+Objective: Text file ka content read karke display karna.
+Concepts: open(), read(), close()
+Screenshot: Availeble in My Screenshots Folder
